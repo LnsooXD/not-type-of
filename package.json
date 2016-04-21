@@ -1,6 +1,6 @@
 {
   "name": "not-type-of",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Complete NOT type checking for node. Reverse for 'is-type-of'",
   "author": "LnsooXD <lnsooxd@gmail.com>",
   "license": "MIT",
