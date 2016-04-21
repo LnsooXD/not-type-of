@@ -1,0 +1,32 @@
+{
+  "name": "not-type-of",
+  "version": "0.0.1",
+  "description": "Complete NOT type checking for node. Reverse for 'is-type-of'",
+  "author": "LnsooXD <lnsooxd@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LnsooXD/not-type-of.git"
+  },
+  "keywords": [
+    "type",
+    "not",
+    "is",
+    "instance",
+    "typeof",
+    "checker"
+  ],
+  "main": "not.js",
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "dependencies": {
+    "is-type-of": "^1.0.0"
+  },
+  "devDependencies": {},
+  "files": [
+    "LICENSE",
+    "README.md",
+    "not.js"
+  ]
+}
