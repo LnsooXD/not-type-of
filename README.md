@@ -1,3 +1,4 @@
+![build-status](https://travis-ci.org/LnsooXD/not-type-of.svg)
 #not-type-of
 ***
 not-type-of is tool of type checking just reverse for [node-modules/is-type-of]. It makes conditionals more human-readable when coordination with [is-type-of]. 

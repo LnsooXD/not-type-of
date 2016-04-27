@@ -23,7 +23,15 @@
   "dependencies": {
     "is-type-of": "^1.0.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "autod": "~2.1.3",
+    "contributors": "*",
+    "istanbul": "~0.4.0",
+    "long": "~3.0.1",
+    "mocha": "~2.3.3",
+    "semver": "~5.0.3",
+    "should": "~7.1.1"
+  },
   "files": [
     "LICENSE",
     "README.md",

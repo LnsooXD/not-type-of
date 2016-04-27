@@ -1,7 +1,6 @@
 "use strict";
-
 /*!
- * not-type-of
+ * not-type-of - not.js
  * Copyright(c) 2016 LnsooXD <LnsooXD@gmail.com>
  * MIT Licensed
  */
